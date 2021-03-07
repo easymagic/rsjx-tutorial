@@ -1,3 +1,4 @@
+window.Rx = rxjs;
 function print(vl){
  
      let $el = document.createElement('div');
